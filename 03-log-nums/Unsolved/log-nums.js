@@ -1,9 +1,11 @@
 // Write code to print all numbers from 1 to `num`
 // Assume `num` will be a positive number
 
-// if num is equal to a number that is one or over 1
-// loop through each number from 1 to whatever number is chosen by user
+// Print all numbers from 1 up to the given nums argument inclusive.
 
-var logNums = function(num) {
+var logNums = function (num) {
 
 };
+
+
+
